@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a design-minded developer with a background in furniture design and making. Dedicated to continuous improvement and energized by challenges.
+I am a design-minded developer with a background in furniture design and making.
+
+Dedicated to continuous improvement and energized by challenges.
 
 [Take a look at my latest project.](https://github.com/AndrewHyland757/Vinyl-Hog-)
 
