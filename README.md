@@ -6,7 +6,7 @@ Dedicated to continuous improvement and energized by challenges.
 
 [Latest project - The Shelter Creative](https://github.com/AndrewHyland757/The-Shelter-Creative)
 
-[eCommerce Website](https://github.com/AndrewHyland757/Vinyl-Hog-)
+[Full Stack eCommerce Website](https://github.com/AndrewHyland757/Vinyl-Hog-)
 
 # 💻 Tech Stack:
 
