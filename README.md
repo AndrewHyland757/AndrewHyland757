@@ -4,7 +4,7 @@ I am a design-minded developer with a background in furniture design and making.
 
 Dedicated to continuous improvement and energized by challenges.
 
-[Take a look at my latest project](https://github.com/AndrewHyland757/The-Shelter-Creative)
+[Take a look at my latest project - The Shelter Creative](https://github.com/AndrewHyland757/The-Shelter-Creative)
 
 # 💻 Tech Stack:
 
